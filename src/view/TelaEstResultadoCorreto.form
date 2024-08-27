@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JInternalFrameFormInfo">
+  <Properties>
+    <Property name="closable" type="boolean" value="true"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="txtUrl" min="-2" pref="400" max="-2" attributes="0"/>
+                      <Component id="jLabel9" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Component id="btVeificar" alignment="0" min="-2" pref="80" max="-2" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="tcasa" alignment="0" min="-2" pref="150" max="-2" attributes="0"/>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="dasd" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="sdasd" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="dasd1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="tOddsCasa" min="-2" max="-2" attributes="0"/>
+                                      <Component id="t1x0" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="t2x0" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="t2x1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="t3x0" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="tEmpate" alignment="0" min="-2" pref="150" max="-2" attributes="0"/>
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel5" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel8" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel7" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="t0x0" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="t1x1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="t2x2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="dasd2" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="tOddsEmpate" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Component id="dasd3" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="tOddsVisitante" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="tVisitante" min="-2" pref="150" max="-2" attributes="0"/>
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel10" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel13" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel12" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel11" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="t0x1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="t0x2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="t1x2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="t0x3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="583" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="txtUrl" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="btVeificar" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="tcasa" alignment="3" pref="15" max="32767" attributes="0"/>
+                      <Component id="tEmpate" alignment="3" max="32767" attributes="0"/>
+                      <Component id="tVisitante" alignment="3" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="dasd1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="dasd2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="dasd3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="tOddsCasa" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="tOddsEmpate" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="tOddsVisitante" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Component id="dasd" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="sdasd" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Component id="jLabel10" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="jLabel13" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="jLabel12" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="jLabel11" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Component id="t1x0" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="t2x0" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="t2x1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="t3x0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Component id="t0x0" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="t1x1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="t2x2" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Component id="t0x1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="t0x2" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="t1x2" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="t0x3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="235" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel9">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="URL :"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtUrl">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtUrlActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btVeificar">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Veificar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btVeificarActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="tcasa">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="CASA"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="tEmpate">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="EMPATE"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="tVisitante">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="VISITANTE"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="dasd">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="1 x 0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="sdasd">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="2 x 0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="2 x 1"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="3 x 0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="0 x 0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel7">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="2 x 2"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel8">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="1 x 1"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel10">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="0 x 1"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel11">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="0 x 3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel12">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="1 x 2"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel13">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="0 x 2"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="t3x0">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="-----"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="t2x1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="-----"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="t2x0">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="-----"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="t1x0">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="-----"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="t2x2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="-----"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="t1x1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="-----"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="t0x0">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="-----"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="t0x3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="-----"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="t1x2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="-----"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="t0x2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="-----"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="t0x1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="-----"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="dasd1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Odds"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="dasd2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Odds"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="dasd3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Odds"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="tOddsCasa">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="-----"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="tOddsEmpate">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="-----"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="tOddsVisitante">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="-----"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

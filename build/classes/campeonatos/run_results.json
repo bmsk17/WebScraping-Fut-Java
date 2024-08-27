@@ -1,0 +1,1246 @@
+{
+ "Time": [
+  {
+   "name": "Flamengo",
+   "url": "https://1xbet.whoscored.com/Teams/1239/Show/Brazil-Flamengo",
+   "Partidas": "16",
+   "Vitorias": "10",
+   "Derrotas": "3",
+   "Empates": "3",
+   "GolsSofridos": "18",
+   "GolsFeitos": "35",
+   "Pontos": "33",
+   "Caracteristicas": [
+    {
+     "name": "Finishing scoring chances",
+     "Qualidade": "Very Strong"
+    },
+    {
+     "name": "Attacking down the wings",
+     "Qualidade": "Very Strong"
+    },
+    {
+     "name": "Creating chances using through balls",
+     "Qualidade": "Very Strong"
+    },
+    {
+     "name": "Creating chances through individual skill",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Coming back from losing positions",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Creating scoring chances",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Creating long shot opportunities",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Counter attacks",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Attacking set pieces",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Aerial duels",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Stealing the ball from the opposition",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Stopping opponents from creating chances",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending against skillful players",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Control the game in the opposition's half"
+    },
+    {
+     "name": "Short passes"
+    },
+    {
+     "name": "Possession football"
+    },
+    {
+     "name": "Rotate their first eleven"
+    },
+    {
+     "name": "Aggressive"
+    }
+   ]
+  },
+  {
+   "name": "Santos FC",
+   "url": "https://1xbet.whoscored.com/Teams/1241/Show/Brazil-Santos-FC",
+   "Partidas": "16",
+   "Vitorias": "10",
+   "Derrotas": "3",
+   "Empates": "3",
+   "GolsSofridos": "17",
+   "GolsFeitos": "28",
+   "Pontos": "33",
+   "Caracteristicas": [
+    {
+     "name": "Shooting from direct free kicks",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Finishing scoring chances",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Counter attacks",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Creating chances through individual skill",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Creating scoring chances",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Stopping opponents from creating chances",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending against long shots",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending against through ball attacks",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Avoiding individual errors",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending against attacks down the wings",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Avoiding fouling in dangerous areas",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Protecting the lead",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Possession football"
+    },
+    {
+     "name": "Attacking down the right"
+    },
+    {
+     "name": "Short passes"
+    },
+    {
+     "name": "Aggressive"
+    },
+    {
+     "name": "Consistent first eleven"
+    },
+    {
+     "name": "Opponents play aggressively against them"
+    }
+   ]
+  },
+  {
+   "name": "Palmeiras",
+   "url": "https://1xbet.whoscored.com/Teams/1234/Show/Brazil-Palmeiras",
+   "Partidas": "15",
+   "Vitorias": "8",
+   "Derrotas": "1",
+   "Empates": "6",
+   "GolsSofridos": "10",
+   "GolsFeitos": "24",
+   "Pontos": "30",
+   "Caracteristicas": [
+    {
+     "name": "Attacking set pieces",
+     "Qualidade": "Very Strong"
+    },
+    {
+     "name": "Defending set pieces",
+     "Qualidade": "Very Strong"
+    },
+    {
+     "name": "Finishing scoring chances",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Counter attacks",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Stealing the ball from the opposition",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Aerial duels",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Avoiding offside",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Avoiding fouling in dangerous areas",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Attempt through balls often"
+    },
+    {
+     "name": "Possession football"
+    },
+    {
+     "name": "Long balls"
+    },
+    {
+     "name": "Attempt crosses often"
+    },
+    {
+     "name": "Control the game in the opposition's half"
+    },
+    {
+     "name": "Attack through the middle"
+    },
+    {
+     "name": "Rotate their first eleven"
+    },
+    {
+     "name": "Opponents play aggressively against them"
+    }
+   ]
+  },
+  {
+   "name": "Sao Paulo",
+   "url": "https://1xbet.whoscored.com/Teams/1224/Show/Brazil-Sao-Paulo",
+   "Partidas": "16",
+   "Vitorias": "8",
+   "Derrotas": "2",
+   "Empates": "6",
+   "GolsSofridos": "11",
+   "GolsFeitos": "20",
+   "Pontos": "30",
+   "Caracteristicas": [
+    {
+     "name": "Finishing scoring chances",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Attacking down the wings",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Creating long shot opportunities",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Creating chances using through balls",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Creating chances through individual skill",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Defending set pieces",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Stealing the ball from the opposition",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Keeping possession of the ball",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Take long shots"
+    },
+    {
+     "name": "Aggressive"
+    },
+    {
+     "name": "Consistent first eleven"
+    },
+    {
+     "name": "Opponents play aggressively against them"
+    }
+   ]
+  },
+  {
+   "name": "Corinthians",
+   "url": "https://1xbet.whoscored.com/Teams/1237/Show/Brazil-Corinthians",
+   "Partidas": "16",
+   "Vitorias": "7",
+   "Derrotas": "2",
+   "Empates": "7",
+   "GolsSofridos": "9",
+   "GolsFeitos": "18",
+   "Pontos": "28",
+   "Caracteristicas": [
+    {
+     "name": "Creating long shot opportunities",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Play with width"
+    },
+    {
+     "name": "Take long shots"
+    },
+    {
+     "name": "Attacking down the right"
+    },
+    {
+     "name": "Attacking down the left"
+    },
+    {
+     "name": "Opponents play aggressively against them"
+    },
+    {
+     "name": "Non-aggressive"
+    },
+    {
+     "name": "Play the offside trap"
+    },
+    {
+     "name": "Rotate their first eleven"
+    }
+   ]
+  },
+  {
+   "name": "Atletico MG",
+   "url": "https://1xbet.whoscored.com/Teams/1235/Show/Brazil-Atletico-MG",
+   "Partidas": "16",
+   "Vitorias": "8",
+   "Derrotas": "5",
+   "Empates": "3",
+   "GolsSofridos": "17",
+   "GolsFeitos": "22",
+   "Pontos": "27",
+   "Caracteristicas": [
+    {
+     "name": "Creating chances through individual skill",
+     "Qualidade": "Very Strong"
+    },
+    {
+     "name": "Creating long shot opportunities",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Shooting from direct free kicks",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Finishing scoring chances",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Creating scoring chances",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Stopping opponents from creating chances",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Protecting the lead",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending against skillful players",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Short passes"
+    },
+    {
+     "name": "Take a lot of shots"
+    },
+    {
+     "name": "Non-aggressive"
+    }
+   ]
+  },
+  {
+   "name": "Internacional",
+   "url": "https://1xbet.whoscored.com/Teams/1219/Show/Brazil-Internacional",
+   "Partidas": "16",
+   "Vitorias": "7",
+   "Derrotas": "6",
+   "Empates": "3",
+   "GolsSofridos": "14",
+   "GolsFeitos": "18",
+   "Pontos": "24",
+   "Caracteristicas": [
+    {
+     "name": "Stealing the ball from the opposition",
+     "Qualidade": "Very Strong"
+    },
+    {
+     "name": "Aerial duels",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Avoiding offside",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Defending against long shots",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Play with width"
+    },
+    {
+     "name": "Attacking down the left"
+    },
+    {
+     "name": "Attempt through balls often"
+    },
+    {
+     "name": "Take long shots"
+    },
+    {
+     "name": "Possession football"
+    },
+    {
+     "name": "Rotate their first eleven"
+    },
+    {
+     "name": "Non-aggressive"
+    }
+   ]
+  },
+  {
+   "name": "Bahia",
+   "url": "https://1xbet.whoscored.com/Teams/1221/Show/Brazil-Bahia",
+   "Partidas": "16",
+   "Vitorias": "6",
+   "Derrotas": "4",
+   "Empates": "6",
+   "GolsSofridos": "15",
+   "GolsFeitos": "18",
+   "Pontos": "24",
+   "Caracteristicas": [
+    {
+     "name": "Counter attacks",
+     "Qualidade": "Very Strong"
+    },
+    {
+     "name": "Aerial duels",
+     "Qualidade": "Very Strong"
+    },
+    {
+     "name": "Creating scoring chances",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Keeping possession of the ball",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Avoiding individual errors",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending set pieces",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Avoiding fouling in dangerous areas",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending against long shots",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Play with width"
+    },
+    {
+     "name": "Long balls"
+    },
+    {
+     "name": "Take a lot of shots"
+    }
+   ]
+  },
+  {
+   "name": "Botafogo RJ",
+   "url": "https://1xbet.whoscored.com/Teams/1227/Show/Brazil-Botafogo-RJ",
+   "Partidas": "16",
+   "Vitorias": "7",
+   "Derrotas": "7",
+   "Empates": "2",
+   "GolsSofridos": "15",
+   "GolsFeitos": "14",
+   "Pontos": "23",
+   "Caracteristicas": [
+    {
+     "name": "Protecting the lead",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Defending against attacks down the wings",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending against skillful players",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending set pieces",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Stopping opponents from creating chances",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Short passes"
+    },
+    {
+     "name": "Attack through the middle"
+    },
+    {
+     "name": "Possession football"
+    },
+    {
+     "name": "Playing in their own half"
+    },
+    {
+     "name": "Play the offside trap"
+    },
+    {
+     "name": "Consistent first eleven"
+    }
+   ]
+  },
+  {
+   "name": "Athletico Paranaense",
+   "url": "https://1xbet.whoscored.com/Teams/1243/Show/Brazil-Athletico-Paranaense",
+   "Partidas": "16",
+   "Vitorias": "7",
+   "Derrotas": "8",
+   "Empates": "1",
+   "GolsSofridos": "17",
+   "GolsFeitos": "23",
+   "Pontos": "22",
+   "Caracteristicas": [
+    {
+     "name": "Counter attacks",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Creating long shot opportunities",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Stopping opponents from creating chances",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Avoiding individual errors",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Aerial duels",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Possession football"
+    },
+    {
+     "name": "Short passes"
+    },
+    {
+     "name": "Control the game in the opposition's half"
+    },
+    {
+     "name": "Attacking down the left"
+    },
+    {
+     "name": "Rotate their first eleven"
+    }
+   ]
+  },
+  {
+   "name": "Goias",
+   "url": "https://1xbet.whoscored.com/Teams/1218/Show/Brazil-Goias",
+   "Partidas": "16",
+   "Vitorias": "6",
+   "Derrotas": "7",
+   "Empates": "3",
+   "GolsSofridos": "25",
+   "GolsFeitos": "16",
+   "Pontos": "21",
+   "Caracteristicas": [
+    {
+     "name": "Shooting from direct free kicks",
+     "Qualidade": "Very Strong"
+    },
+    {
+     "name": "Creating chances through individual skill",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Creating scoring chances",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Protecting the lead",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Keeping possession of the ball",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending set pieces",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending against attacks down the wings",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending against long shots",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Avoiding individual errors",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Aerial duels",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Defending against through ball attacks",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Long balls"
+    },
+    {
+     "name": "Attempt crosses often"
+    },
+    {
+     "name": "Take a lot of shots"
+    },
+    {
+     "name": "Attempt through balls often"
+    },
+    {
+     "name": "Take long shots"
+    },
+    {
+     "name": "Attacking down the right"
+    },
+    {
+     "name": "Consistent first eleven"
+    },
+    {
+     "name": "Playing in their own half"
+    }
+   ]
+  },
+  {
+   "name": "Gremio",
+   "url": "https://1xbet.whoscored.com/Teams/1244/Show/Brazil-Gremio",
+   "Partidas": "16",
+   "Vitorias": "5",
+   "Derrotas": "5",
+   "Empates": "6",
+   "GolsSofridos": "21",
+   "GolsFeitos": "20",
+   "Pontos": "21",
+   "Caracteristicas": [
+    {
+     "name": "Creating long shot opportunities",
+     "Qualidade": "Very Strong"
+    },
+    {
+     "name": "Stealing the ball from the opposition",
+     "Qualidade": "Very Strong"
+    },
+    {
+     "name": "Coming back from losing positions",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Attacking down the wings",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Shooting from direct free kicks",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Attacking set pieces",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Defending set pieces",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Avoiding offside",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Avoiding individual errors",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending against through ball attacks",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending counter attacks",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Avoiding fouling in dangerous areas",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Protecting the lead",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Control the game in the opposition's half"
+    },
+    {
+     "name": "Attack through the middle"
+    },
+    {
+     "name": "Short passes"
+    },
+    {
+     "name": "Possession football"
+    },
+    {
+     "name": "Rotate their first eleven"
+    }
+   ]
+  },
+  {
+   "name": "Ceara",
+   "url": "https://1xbet.whoscored.com/Teams/7334/Show/Brazil-Ceara",
+   "Partidas": "16",
+   "Vitorias": "6",
+   "Derrotas": "8",
+   "Empates": "2",
+   "GolsSofridos": "17",
+   "GolsFeitos": "19",
+   "Pontos": "20",
+   "Caracteristicas": [
+    {
+     "name": "Finishing scoring chances",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Counter attacks",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Keeping possession of the ball",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending counter attacks",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending set pieces",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Avoiding offside",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Attacking down the right"
+    },
+    {
+     "name": "Play with width"
+    },
+    {
+     "name": "Long balls"
+    },
+    {
+     "name": "Attempt crosses often"
+    },
+    {
+     "name": "Consistent first eleven"
+    },
+    {
+     "name": "Play the offside trap"
+    },
+    {
+     "name": "Non-aggressive"
+    }
+   ]
+  },
+  {
+   "name": "Vasco da Gama",
+   "url": "https://1xbet.whoscored.com/Teams/1226/Show/Brazil-Vasco-da-Gama",
+   "Partidas": "16",
+   "Vitorias": "5",
+   "Derrotas": "6",
+   "Empates": "5",
+   "GolsSofridos": "22",
+   "GolsFeitos": "16",
+   "Pontos": "20",
+   "Caracteristicas": [
+    {
+     "name": "Shooting from direct free kicks",
+     "Qualidade": "Very Strong"
+    },
+    {
+     "name": "Attacking set pieces",
+     "Qualidade": "Very Strong"
+    },
+    {
+     "name": "Defending set pieces",
+     "Qualidade": "Very Strong"
+    },
+    {
+     "name": "Counter attacks",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Creating scoring chances",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Keeping possession of the ball",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Finishing scoring chances",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending against long shots",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending against skillful players",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Take a lot of shots"
+    },
+    {
+     "name": "Attempt crosses often"
+    },
+    {
+     "name": "Attack through the middle"
+    },
+    {
+     "name": "Play the offside trap"
+    },
+    {
+     "name": "Aggressive"
+    }
+   ]
+  },
+  {
+   "name": "Fortaleza",
+   "url": "https://1xbet.whoscored.com/Teams/2065/Show/Brazil-Fortaleza",
+   "Partidas": "16",
+   "Vitorias": "5",
+   "Derrotas": "8",
+   "Empates": "3",
+   "GolsSofridos": "24",
+   "GolsFeitos": "19",
+   "Pontos": "18",
+   "Caracteristicas": [
+    {
+     "name": "Coming back from losing positions",
+     "Qualidade": "Very Strong"
+    },
+    {
+     "name": "Attacking down the wings",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Creating chances using through balls",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Finishing scoring chances",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Protecting the lead",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Defending set pieces",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Defending against through ball attacks",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending counter attacks",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Attack through the middle"
+    },
+    {
+     "name": "Playing in their own half"
+    }
+   ]
+  },
+  {
+   "name": "Cruzeiro",
+   "url": "https://1xbet.whoscored.com/Teams/1230/Show/Brazil-Cruzeiro",
+   "Partidas": "16",
+   "Vitorias": "3",
+   "Derrotas": "7",
+   "Empates": "6",
+   "GolsSofridos": "23",
+   "GolsFeitos": "14",
+   "Pontos": "15",
+   "Caracteristicas": [
+    {
+     "name": "Creating chances using through balls",
+     "Qualidade": "Very Strong"
+    },
+    {
+     "name": "Creating long shot opportunities",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Shooting from direct free kicks",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Protecting the lead",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Finishing scoring chances",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Avoiding offside",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Aerial duels",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending against attacks down the wings",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending against skillful players",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Attempt through balls often"
+    },
+    {
+     "name": "Short passes"
+    },
+    {
+     "name": "Take long shots"
+    },
+    {
+     "name": "Control the game in the opposition's half"
+    },
+    {
+     "name": "Attack through the middle"
+    },
+    {
+     "name": "Non-aggressive"
+    }
+   ]
+  },
+  {
+   "name": "Chapecoense AF",
+   "url": "https://1xbet.whoscored.com/Teams/8865/Show/Brazil-Chapecoense-AF",
+   "Partidas": "16",
+   "Vitorias": "3",
+   "Derrotas": "8",
+   "Empates": "5",
+   "GolsSofridos": "27",
+   "GolsFeitos": "16",
+   "Pontos": "14",
+   "Caracteristicas": [
+    {
+     "name": "Counter attacks",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Attacking set pieces",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Creating scoring chances",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Aerial duels",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Keeping possession of the ball",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Avoiding fouling in dangerous areas",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending against long shots",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending against through ball attacks",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Defending set pieces",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Long balls"
+    },
+    {
+     "name": "Attempt crosses often"
+    },
+    {
+     "name": "Play with width"
+    },
+    {
+     "name": "Take a lot of shots"
+    },
+    {
+     "name": "Non-aggressive"
+    },
+    {
+     "name": "Consistent first eleven"
+    },
+    {
+     "name": "Opponents play aggressively against them"
+    }
+   ]
+  },
+  {
+   "name": "Fluminense",
+   "url": "https://1xbet.whoscored.com/Teams/1232/Show/Brazil-Fluminense",
+   "Partidas": "15",
+   "Vitorias": "3",
+   "Derrotas": "9",
+   "Empates": "3",
+   "GolsSofridos": "25",
+   "GolsFeitos": "19",
+   "Pontos": "12",
+   "Caracteristicas": [
+    {
+     "name": "Coming back from losing positions",
+     "Qualidade": "Very Strong"
+    },
+    {
+     "name": "Creating scoring chances",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Creating chances through individual skill",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Avoiding individual errors",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending against attacks down the wings",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Stopping opponents from creating chances",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Attacking down the left"
+    },
+    {
+     "name": "Possession football"
+    },
+    {
+     "name": "Short passes"
+    },
+    {
+     "name": "Attempt through balls often"
+    },
+    {
+     "name": "Control the game in the opposition's half"
+    },
+    {
+     "name": "Aggressive"
+    },
+    {
+     "name": "Consistent first eleven"
+    }
+   ]
+  },
+  {
+   "name": "CS Alagoano",
+   "url": "https://1xbet.whoscored.com/Teams/9915/Show/Brazil-CS-Alagoano",
+   "Partidas": "16",
+   "Vitorias": "2",
+   "Derrotas": "8",
+   "Empates": "6",
+   "GolsSofridos": "23",
+   "GolsFeitos": "5",
+   "Pontos": "12",
+   "Caracteristicas": [
+    {
+     "name": "Creating chances using through balls",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Protecting the lead",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Avoiding fouling in dangerous areas",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Aerial duels",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending set pieces",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Finishing scoring chances",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Keeping possession of the ball",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Defending counter attacks",
+     "Qualidade": "Very Weak"
+    },
+    {
+     "name": "Attack through the middle"
+    },
+    {
+     "name": "Long balls"
+    },
+    {
+     "name": "Attempt through balls often"
+    },
+    {
+     "name": "Take a lot of shots"
+    },
+    {
+     "name": "Playing in their own half"
+    }
+   ]
+  },
+  {
+   "name": "Avai FC",
+   "url": "https://1xbet.whoscored.com/Teams/4619/Show/Brazil-Avai-FC",
+   "Partidas": "16",
+   "Vitorias": "0",
+   "Derrotas": "9",
+   "Empates": "7",
+   "GolsSofridos": "22",
+   "GolsFeitos": "8",
+   "Pontos": "7",
+   "Caracteristicas": [
+    {
+     "name": "Stealing the ball from the opposition",
+     "Qualidade": "Strong"
+    },
+    {
+     "name": "Keeping possession of the ball",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Finishing scoring chances",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Avoiding offside",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Avoiding fouling in dangerous areas",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending against skillful players",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Aerial duels",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Avoiding individual errors",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Defending set pieces",
+     "Qualidade": "Weak"
+    },
+    {
+     "name": "Attempt crosses often"
+    },
+    {
+     "name": "Take long shots"
+    },
+    {
+     "name": "Play with width"
+    },
+    {
+     "name": "Control the game in the opposition's half"
+    },
+    {
+     "name": "Attacking down the right"
+    },
+    {
+     "name": "Aggressive"
+    },
+    {
+     "name": "Consistent first eleven"
+    }
+   ]
+  }
+ ]
+}
